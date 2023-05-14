@@ -1,0 +1,18 @@
+.todoItem{
+    display: flex;
+    width: 200px;
+}
+.todoItemText{
+    text-decoration: line-through;
+}
+.todoItemDoneBtnStyle{
+    color: blue;
+}
+.todoItemDescription{
+    display: flex;
+    justify-content: space-between;
+    color: blue;
+}
+.todoItemAccordion{
+    width: 700px;
+}

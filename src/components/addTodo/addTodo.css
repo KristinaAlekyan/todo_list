@@ -1,0 +1,8 @@
+.addTodo{
+    display: flex;
+    justify-content: center;
+}
+.addButton{
+    margin: 100px;
+    background-color: red;
+}

@@ -1,0 +1,5 @@
+.errorContainer{
+    display: flex;
+    color: red;
+    min-height: 25px;
+}

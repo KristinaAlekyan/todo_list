@@ -1,0 +1,10 @@
+.modalContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 450px;
+    margin : 20px auto;
+    gap: 20px;
+    background-color: white;
+    padding: 20px;
+}
